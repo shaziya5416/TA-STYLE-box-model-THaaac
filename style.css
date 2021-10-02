@@ -82,12 +82,14 @@ h5 {width: 150px;
     display: inline-block
 }
 h6{
-    width: 400px;
+     width: 400px;
     height: 600px;
     margin: 40px;
     background-color:red;
-    border:15px solid blue;
+    border-top:15px solid blue;
+    border-left:15px solid yellow;
+    border-bottom:15px solid green;
+    border-right: 15px solid brown;
+    
     outline: 20px solid purple;
 }
-
-
